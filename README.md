@@ -1,4 +1,5 @@
 ### Hi there. This is the code repository for the Simple Syntax blog. It contains the code from various posts and can be downloaded or copied and used if necessary. 👋
+If you are having trouble with any of the concepts in the blog posts, downloads these Python files to compare and correct mistakes.
 
 <!--
 **SimpleSyntax/SimpleSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
