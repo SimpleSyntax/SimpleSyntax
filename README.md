@@ -1,6 +1,8 @@
 ### Hi there. This is the code repository for the Simple Syntax blog. It contains the code from various posts and can be downloaded or copied and used if necessary. 👋
 If you are having trouble with any of the concepts in the blog posts, downloads these Python files to compare and correct mistakes. 
 
+Just click "Repositories" on the menu above and then click into the "Simple Syntax" repo (it's the only one). You can click each .py file to copy and paste the code into your own programming environmnent, or click the green <>Code button and download all of them in a zip file :)
+
 Here is the link to the blog posts https://danegoulter.wixsite.com/simplesyntax/blog
 
 You can also follow on Tumblr for updates here https://www.tumblr.com/blog/simplesyntax85 and also on Twitter here https://twitter.com/SyntaxSimple . 
